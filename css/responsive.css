@@ -173,7 +173,7 @@
 		font-size: 20px;
 	}
 	.our-story-content{
-		background: rgba(123,238,199,0.8);
+		background: rgba(102, 222, 230, 0.8);
 	}
 
 	.header-page .inner-content .header-content h1 {
@@ -301,7 +301,7 @@
 	    display: none;
 	}
 	.slide .slide__text {
-	    background-color: #7beec7;
+	    background-color: #66DEE6;
 	}
 
 }
