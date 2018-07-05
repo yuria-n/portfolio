@@ -2547,7 +2547,9 @@ ul.social-buttons li {
     font-size: 30px;
     color: #fff;
 }
-.single-blog-wrapper {} .single-blog-wrapper h1 {
+.single-blog-wrapper {}
+
+.single-blog-wrapper h1 {
     font-family: 'Ubuntu', sans-serif;
     font-weight: 300;
 }
