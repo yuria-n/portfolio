@@ -1162,7 +1162,7 @@ span.border-text {
     height: 100%;
     right: 0;
     top: 0;
-    background-color: #111;
+    background-color: rgba(0, 0, 0, 0.9);
     background-position: center center;
     background-size: cover;
     font-size: 1.15em;
